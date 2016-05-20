@@ -8,3 +8,4 @@ run UBICOMP.m  and it will prompt you to select the files that you want to load.
 By default the program wall ask you to input sub plot layout, data column to plot etc. If you open UBICOMP.m you can change my_debug to true and it will let you preload all the values so matlab doesn't ask.
 plot_eye_data.m lists all the plots available
 
+These scripts were created for a class project at UNH, feel free to use and alter these files as you wish
